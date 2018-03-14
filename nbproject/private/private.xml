@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/utilities/FileChooserDelegate.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/Main.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/encryptions/EncryptionProcessorType.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/processor/ViewFileBytesAsString.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/ui/EncryptionOptionModalDialog.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/listener/OnProgressListener.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/processor/BaseProcess.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/utilities/FormatConverter.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/encryptions/Operation.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/ui/MainWindow.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/utilities/JOPtionUtils.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/listener/OnDialogActionListener.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/utilities/TextUtils.java</file>
+            <file>file:/Users/filippo/NetBeansProjects/MediaFileSecurityProcessor/src/mediafilesecurity/utilities/FileUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
